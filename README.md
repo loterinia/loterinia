@@ -8,5 +8,5 @@ Adoro esportes e pratico volêi em sbc, recentemente comecei a praticar corrida
 E penso em seguir carreira como fisioterapeuta dentro da área do esporte. 
 
 <h3>Experiências:</h3> No momento estou cursando programação em São Paulo, o curso oferece noções básicas de Lógica de Programação.
-<h3>Hobbies:</h3> Jogar vôlei, Atletismo, crochê, caminhada, escutar música etc.
+<h3>Hobbies:</h3> Jogar vôlei, Atletismo, crochê, caminhada, escutar música e entre outros.
 <h3>Objetivos/Motivações:</h3> Realizar meu(s) sonho(s), me formar como Fisioterapeuta no ramo esportivo!
